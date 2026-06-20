@@ -1,0 +1,30 @@
+Bit Manipulation Notes
+----------------------
+
+1. AND (&)
+   Used to clear bits or check a bit.
+
+2. OR (|)
+   Used to set a bit.
+
+3. XOR (^)
+   Toggle a bit.
+
+4. <<  Left Shift
+   Multiply by 2.
+
+5. >>  Right Shift
+   Divide by 2.
+
+6. Extract bit:
+   (n >> pos) & 1
+
+7. Set bit:
+   n | (1 << pos)
+
+8. Clear bit:
+   n & ~(1 << pos)
+
+9. Toggle bit:
+   n ^ (1 << pos)
+

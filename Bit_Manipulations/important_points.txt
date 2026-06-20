@@ -1,0 +1,15 @@
+Difference between | and ||
+Difference between & and &&
+Why use bit masks?
+How to clear multiple bits?
+How to set bits 4–7?
+How to extract a field from a register?
+How to swap odd/even bits?
+How to count set bits efficiently?
+How to detect power of 2?
+How to perform byte swapping?
+What is endianness?
+How are GPIO registers manipulated?
+Why is XOR used for toggling?
+Difference between logical shift and arithmetic shift?
+What happens when shifting a signed integer?

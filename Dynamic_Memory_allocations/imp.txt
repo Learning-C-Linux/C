@@ -1,0 +1,1 @@
+When you call malloc(), it doesn’t just allocate your requested bytes — it actually allocates a little extra space to store metadata (bookkeeping information).
